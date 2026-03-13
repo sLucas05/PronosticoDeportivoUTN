@@ -1,6 +1,9 @@
 # Pronósticos Deportivos
 
 ### Descripción
+Proyecto desarrollado en el marco del curso *Desarrollador Java Inicial* de la *Universidad Tecnológica Nacional* utilizando el lenguaje *Java*. El sistema es capaz de generar resultados aleatorios para partidos de fútbol y calcular el puntaje de los usuarios en base a sus pronósticos. Aplica una lógica de puntuación con bonificaciones dinámicas por rondas y fases acertadas, consolidando los resultados en un ranking de jugadores.
+
+
 
 ### Oportunidades de Mejora
 
