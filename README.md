@@ -6,7 +6,7 @@ Proyecto desarrollado en el marco del curso **Desarrollador Java Inicial** de la
 Destaca de este proyecto la integración de **Maven** como gestor y la utilización de archivos **CSV** para el procesamiento de partidos y resultados. Asimismo, se implementa persistencia en **MySQL** a traves de **JDBC** para el ranking de jugadores.
 
 ### Oportunidades de Mejora
-- [ ]
+-[]
 ### Setup
   1. Importar la base de datos MySQL `pronosticos.sql` 
   2. Importar como proyecto Maven.
