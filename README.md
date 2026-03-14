@@ -19,7 +19,7 @@ Destaca de este proyecto la integración de **Maven** como gestor y la utilizaci
 
 ∘ Normalizar la acentuación en los strings.
 
-∘ Implementar pruebas unitarias que simulen una ejecución completa del sistema y sus diferentes variantes para cubrir el 100% del programa.
+∘ Agregar mas pruebas unitarias para cubrir el 100% del programa.
 ```
 
 ### Setup
