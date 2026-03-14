@@ -23,7 +23,7 @@ Destaca de este proyecto la integración de **Maven** como gestor y la utilizaci
 ```
 
 ### Setup
-  1. Importar la base de datos MySQL `pronosticos.sql` 
+  1. Importar la base de datos MySQL [pronosticos.sql](./database/pronosticos.sql)
   2. Importar como proyecto Maven.
   3. Ejecutar `MainApp.java`
      
