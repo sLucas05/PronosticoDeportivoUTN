@@ -7,7 +7,11 @@ Destaca de este proyecto la integración de **Maven** como gestor y la utilizaci
 
 ### Oportunidades de Mejora
 ```
-∘ Migrar de  JDBC a JPA para simplificar la persistencia. 
+∘ Migrar de  JDBC a JPA para simplificar la persistencia.
+
+∘ Migrar la configuración de CSV a un archivo JSON.
+
+∘ Utilizar un ArrayList en reemplazo al procesamiento de partidos en CSV para agilizar la ejecucion.
 
 ∘ Renombrar las variables para mejorar la legibilidad.
 
