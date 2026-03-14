@@ -6,6 +6,15 @@ Proyecto desarrollado en el marco del curso **Desarrollador Java Inicial** de la
 Destaca de este proyecto la integración de **Maven** como gestor y la utilización de archivos **CSV** para el procesamiento de partidos y resultados. Asimismo, se implementa persistencia en **MySQL** a través de **JDBC** para el ranking de jugadores.
 
 ### Oportunidades de Mejora
+```
+∘ Migrar de  JDBC a JPA para simplificar la persistencia. 
+
+∘ Renombrar las variables para mejorar la legibilidad.
+
+∘ Normalizar la acentuación en los strings.
+
+∘ Implementar pruebas unitarias que simulen una ejecución completa del sistema y sus diferentes variantes para cubrir el 100% del programa.
+```
 
 ### Setup
   1. Importar la base de datos MySQL `pronosticos.sql` 
