@@ -7,7 +7,7 @@ Destaca de este proyecto la integración de **Maven** como gestor y la utilizaci
 
 ### Oportunidades de Mejora
 ```
-∘ Dividir MainApp.java en funciones y clases independientes con el fin de optimizar y reutilizar código.
+∘ Dividir MainApp.java en clases y funciones con el fin de optimizar y reutilizar código.
 
 ∘ Migrar de JDBC a JPA para simplificar la persistencia.
 
