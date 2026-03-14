@@ -7,7 +7,9 @@ Destaca de este proyecto la integración de **Maven** como gestor y la utilizaci
 
 ### Oportunidades de Mejora
 ```
-∘ Migrar de  JDBC a JPA para simplificar la persistencia.
+∘ Dividir MainApp.java en funciones y clases independientes con el fin de optimizar y reutilizar código.
+
+∘ Migrar de JDBC a JPA para simplificar la persistencia.
 
 ∘ Migrar la configuración de CSV a un archivo JSON.
 
