@@ -13,7 +13,7 @@ Destaca de este proyecto la integración de **Maven** como gestor y la utilizaci
 
 ∘ Migrar la configuración de CSV a un archivo JSON.
 
-∘ Utilizar un ArrayList en reemplazo al procesamiento de partidos en CSV para agilizar la ejecucion.
+∘ Utilizar un ArrayList en reemplazo al procesamiento de partidos en CSV para agilizar la ejecución.
 
 ∘ Renombrar las variables para mejorar la legibilidad.
 
